@@ -87,7 +87,7 @@ A simple, explainable rule-based lookup — deliberately kept simple rather than
 
 ## 👤 Author
 
-**Anshika Dubey**
+**Amit Jyani**
 
 ## 🙏 Acknowledgements
 
